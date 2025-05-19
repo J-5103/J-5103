@@ -63,6 +63,6 @@ Currently, I'm enhancing my skills in **statistics**, **machine learning**, **da
 
 - 📧 Email: pateljimi53@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/jimi-patel-43a763228
-- 🐱 GitHub: https://github.com/DaxPatel2601  
+- 🐱 GitHub: https://github.com/J-5103 
 
 ---

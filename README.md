@@ -27,6 +27,8 @@ Currently, I'm enhancing my skills in **statistics**, **machine learning**, **da
 ## 🛠️ Projects
 
 
+### 🔹 AI Documents Analysis With Data Visualization And Business card and Visiting card Extraction
+
 ### 🔹 Revenue Forecasting and Trend Analysis for Business Growth
 - Predicted business revenue and analyzed seasonal trends
 - Visualized forecasts using Matplotlib and Seaborn
